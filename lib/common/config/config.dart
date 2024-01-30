@@ -18,3 +18,5 @@ class Config {
   static const THEME_COLOR = "theme-color";
   static const LOCALE = "locale";
 }
+
+
